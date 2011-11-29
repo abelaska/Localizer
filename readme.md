@@ -1,0 +1,1 @@
+Simple PHP & JavaScript localization framework.
